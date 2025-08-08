@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" />
   <img src="https://img.shields.io/badge/Programs-100%2B-green.svg" />
   <img src="https://img.shields.io/badge/University-UoK-orange.svg" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" />
+ 
 </p>
 
 ---
 <p align="center">
-  <img src="https://www.google.com/imgres?q=UNIVERSITY%20OF%20KASHMIR&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F6%2F6f%2FUniversity_of_Kashmir_logo.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUniversity_of_Kashmir&docid=fI_pKK3TWIZh8M&tbnid=mnoHiwfeFBePOM&vet=12ahUKEwj27cbY-PuOAxW_SGcHHd_kBaoQM3oECCIQAA..i&w=208&h=160&hcb=2&ved=2ahUKEwj27cbY-PuOAxW_SGcHHd_kBaoQM3oECCIQAA)" alt="University of Kashmir Logo" width="300"/>
+  <img src="/University_of_Kashmir_logo.png" alt="University of Kashmir Logo" width="300"/>
 </p>
 
 ## 📌 About This Repository
